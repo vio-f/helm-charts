@@ -9,6 +9,6 @@ entries:
     name: hello-world
     type: application
     urls:
-    - https://vio-f.github.com/helm-charts/hello-world-0.1.0.tgz
+    - https://vio-f.github.com/helm-charts/charts/hello-world-0.1.0.tgz
     version: 0.1.0
 generated: "2021-05-22T01:35:09.9724809+01:00"
